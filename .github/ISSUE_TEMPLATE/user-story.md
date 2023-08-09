@@ -7,9 +7,11 @@ assignees: ''
 
 ---
 
-** As a ** [position]
-** I need ** [functionality]
-** So that ** [reason]
+**As a** [position]
+
+**I need** [functionality]
+
+**So that** [reason]
 
 ### Details and assumptions
 * [ ] [Description 1]
